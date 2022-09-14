@@ -8,5 +8,6 @@ public class gitTest {
 		System.out.println("学习git");
 		System.out.println("键盘敲烂，月薪过万");
 		System.out.println("git从库");
+		System.out.println("git salve");
 	}
 }
