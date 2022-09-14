@@ -7,7 +7,7 @@ public class gitTest {
 		System.out.println("大威子来了");
 		System.out.println("学习git");
 		System.out.println("键盘敲烂，月薪过万");
-		System.out.println("git从库");
+		System.out.println("git主库");
 		System.out.println("git master");
 		System.out.println("git salve");
 	}
